@@ -1,0 +1,72 @@
+
+.head{
+position: fixed;
+top: 33px;
+left: 272px;
+width: 100px;
+height: 26px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 22px/33px Inter;
+letter-spacing: 0px;
+color: #182A58;
+opacity: 1;
+}
+
+.tabs{
+position: fixed;
+top: 105px;
+left: 231px;
+width: 1421px;
+}
+
+.input{
+position: fixed;
+top: 161px;
+left: 252px;
+width: 340px;
+height: 44px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D0D5DD;
+border-radius: 8px;
+opacity: 1;
+}
+.dd1{
+position: fixed;
+top: 163px;
+left: 616px;
+width: 164px;
+height: 40px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 1px 2px #10182829;
+border: 1px solid #D0D5DD;
+border-radius: 8px;
+opacity: 1;
+}
+#dd2{
+left: 808px;
+}
+
+.date{
+position: fixed;
+top: 163px;
+left: 900px;
+width: 164px;
+height: 40px;
+z-index: 5;
+}
+.table{
+position: fixed;
+top: 250px;
+left: 252px;
+width: 60%;
+}
+
+.pagi{
+position: fixed;
+top: 687px;
+left: 252px;
+width: 842px;
+height: 36px;
+opacity: 1;
+}
